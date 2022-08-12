@@ -1,2 +1,2 @@
 # diffReport
-Python Package to report the differences between two files
+Python Package to report the differences between two or multiple files
