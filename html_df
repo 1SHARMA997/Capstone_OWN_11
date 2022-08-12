@@ -1,0 +1,12 @@
+,File1,File2,Ratio,Partial Ratio
+1,To : <replace>XYZ</replace> Bank Limited ,To <insert> </insert>: <replace> Aditi </replace> Bank<insert> </insert> Limited ,76,75
+5,Address line 2 <delete> </delete>,Address line 2 ,97,100
+9,comparisons and change detection. <delete> </delete>,comparisons and change detection. ,99,100
+35,<delete>  </delete>1 ,1 ,67,100
+46,Valuation Date: <delete> </delete>,Valuation Date: ,97,100
+82,<delete>  </delete>2 ,2 ,67,100
+87,of this <delete> </delete>,of this ,94,100
+90,<delete>Name: _________________ </delete>,,0,0
+91,<delete>Title: __________________ </delete>,,0,0
+93,Signature: <delete>______________</delete> ,Signature:  <insert> </insert>,62,55
+96,<delete>  </delete>3 ,3 ,67,100
