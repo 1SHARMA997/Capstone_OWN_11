@@ -13,3 +13,5 @@ Link: https://mailtrap.io/inboxes/1847993/messages/2926662422
 
 Deployed Version of our tool on Heroku 
 Link : https://pdf-cmp-tool.herokuapp.com/
+
+Published Pypi Package : https://pypi.org/project/diffReport/
